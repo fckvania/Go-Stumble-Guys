@@ -1,9 +1,6 @@
 <p align="center">
 <img src="https://i.pinimg.com/736x/9c/1a/7b/9c1a7b98ba1e02023393846c9509c587.jpg" alt="png" width="128" height="128"/>
 </p>
-<p align="center">
-<a href="#"><img title="Go Stumble" src="https://img.shields.io/badge/X Stumble-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
 <br>
 
 ## How to get auth token ?
