@@ -25,3 +25,16 @@ Download : [HTTP Cannary](https://apkcombo.com/id/httpcanary-http-sniffer-captur
 ```
 
 ## How to use ?
+
+```sh
+git clone https://github.com/fckvania/Go-Stumble-Guys
+```
+```sh
+cd Go-Stumble-Guys
+```
+```sh
+go build .
+```
+```sh
+./vnia-stumble
+```
