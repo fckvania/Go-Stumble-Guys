@@ -7,6 +7,7 @@ import (
   "net/http"
   "io/ioutil"
   "encoding/json"
+  "time"
 )
 
 type Stumbel struct {
@@ -84,4 +85,6 @@ func main() {
       i += 1
     }()
   }
+  //Sleep
+  time.Sleep(5 * time.Second)
 }
