@@ -75,7 +75,7 @@ func main() {
     go func() {
       res, err := GoStumble(input)
       if err != nil {
-        log.Fatal("Cokkie Expired!")
+        log.Fatal("Cokkie Kamu Expired!")
       }
       data := res.Data
       if data.Banned {
