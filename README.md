@@ -21,7 +21,7 @@ Download : [HTTP Cannary](https://apkcombo.com/id/httpcanary-http-sniffer-captur
 ## Example auth token
 
 ```sh
-{"DeviceId":"kontol","GoogleId":"kontol","FacebookId":"kontol","Token":"kontol","Timestamp":69696969,"Hash":"kontol"}
+{"DeviceId":"device id","GoogleId":"kontol","FacebookId":"kontol","Token":"kontol","Timestamp":69696969,"Hash":"kontol"}
 ```
 
 ## How to use ?
